@@ -1,2 +1,6 @@
 # Module-5-challenge
 Pymaceuticals_challenge
+Analysis:
+1. According to the result of the scatterplot, between average mouse weight and average tumor volume there is a positive correlation for the Capomulin drug.
+2. Even though Capomulin and Ramicane drugs, have showed to be more effective compareed to the other drugs, still it is unknown the amount of dosage given to mice. If the dosage was scaled according to the weight or not? And also, as per the box plot results Campomulin and Ramicane were applied on mice with lower tumor volume compared to Infubinol and Ceftamin.
+3. In the line graph of capomulin treatment, we see an incrase of the tumor volume after the treatment started until day 20. Would be nice to have more info to determine did the drug stimulate this or is normal recation. Also on the same graph we see that after day 20 there is an imediate effect of the drug, and then day 25 to 30 a slight increase of the volume, day 30 to 35, the curb drops again, and then day 35 there is another increase of the tumor volume which it continues longer in days then the increase on day 25. The question that we can raise here is that what are the chances of having a negative side effect of this drug. 
